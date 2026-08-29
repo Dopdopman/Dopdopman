@@ -46,6 +46,36 @@
 
 <br>
 
+<!-- Featured Projects -->
+<h2 align="center">📌 Featured Projects</h2>
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🧪 CovAI</h3>
+      <p>AI-powered test coverage analysis & Jest test generation platform. Builds Control Flow Graphs, computes Cyclomatic Complexity, and uses Gemini AI to suggest and generate tests — each analysis job runs in an isolated Docker container.</p>
+      <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · PostgreSQL · Docker · Babel Parser</sub></p>
+      <a href="https://cov-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/Dopdopman/CovAI-"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📊 AgileAI Dashboard</h3>
+      <p>Smart project health dashboard that syncs live Sprints from Atlassian Jira over REST API and uses Gemini AI to auto-calculate Sprint Velocity, Cycle Time, and flag at-risk issues.</p>
+      <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · SQLite · Docker · Jira API</sub></p>
+      <a href="https://agileai-dashboard.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/Dopdopman/agileai-dashboard"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🍱 F-Bites</h3>
+      <p>Food rescue marketplace connecting sellers with surplus stock to buyers. Built the Seller Dashboard, Wishlist, and QR-code pickup flow, backed by JWT-authenticated REST APIs.</p>
+      <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · JWT</sub></p>
+      <a href="https://github.com/Dopdopman/F-Bites"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 <!-- Tech Stack with Folders (Details tag) for cleaner look -->
 <h2 align="center">⚡ Technologies & Tools</h2>
 <div align="center">
@@ -58,33 +88,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver,git,github,vscode,docker,postman,vercel" alt="Tools and DBs" />
   </a>
-</div>
-
-<br><br>
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dopdopman&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
-<br><br>
-
-<!-- Stats and Activity -->
-<h2 align="center">📈 GitHub Activity & Stats</h2>
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dopdopman&theme=tokyo-night&bg_color=1a1b26&color=3A7BD5&line=00d2ff&point=ffffff&hide_border=true" width="90%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Stats side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dopdopman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b26" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dopdopman&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" width="35%" />
 </div>
 
 <br><br>
