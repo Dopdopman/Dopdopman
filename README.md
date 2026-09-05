@@ -1,6 +1,6 @@
 <!-- Header (Capsule Render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRẦN%20HỮU%20PHÚC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRAN%20HUU%20PHUC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <!-- Typing Effect -->
