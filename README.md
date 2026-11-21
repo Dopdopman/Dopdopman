@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/phuc-tran-4b14802a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/tran.phuc.504864"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/tran_qhuc10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:phuc12435az@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:phuctranhuu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br>
@@ -34,7 +34,7 @@
         <li>🗄️ <b>Databases:</b> SQL Server, MySQL, PostgreSQL</li>
         <li>🔐 <b>Security:</b> JWT, OAuth, Role-Based Access</li>
         <li>☁️ <b>Learning:</b> Distributed Systems & Cloud Services</li>
-        <li>📫 <b>Contact:</b> phuc12435az@gmail.com</li>
+        <li>📫 <b>Contact:</b> phuctranhuu.dev@gmail.com</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -59,11 +59,11 @@
       <a href="https://github.com/Dopdopman/CovAI-"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>📊 AgileAI Dashboard</h3>
-      <p>Smart project health dashboard that syncs live Sprints from Atlassian Jira over REST API and uses Gemini AI to auto-calculate Sprint Velocity, Cycle Time, and flag at-risk issues.</p>
-      <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · SQLite · Docker · Jira API</sub></p>
-      <a href="https://agileai-dashboard.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-      <a href="https://github.com/Dopdopman/agileai-dashboard"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+      <h3>📈 VXG Tracker</h3>
+      <p>Automated price tracking, auditing, and quantitative forecasting platform for Vietnam's Gold, Fuel, and Gas markets—combining 11 official sources, macro/RSS signals, and zero look-ahead walk-forward models.</p>
+      <p><sub><b>Stack:</b> Next.js · FastAPI · PostgreSQL · scikit-learn · Docker · GitHub Actions</sub></p>
+      <a href="https://vxg-tracker.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/Dopdopman/vxg-tracker"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🍱 F-Bites</h3>
@@ -81,12 +81,12 @@
 <div align="center">
   <p>Languages & Frameworks</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,tailwind,html,css" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,fastapi,react,nextjs,tailwind,html,css" alt="Languages and Frameworks" />
   </a>
   <br><br>
   <p>Databases, DevOps & Tools</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver,git,github,vscode,docker,postman,vercel" alt="Tools and DBs" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,githubactions,vscode,docker,postman,vercel" alt="Tools and DBs" />
   </a>
 </div>
 
