@@ -55,7 +55,7 @@
       <h3>🧪 CovAI</h3>
       <p>AI-powered test coverage analysis & Jest test generation platform. Builds Control Flow Graphs, computes Cyclomatic Complexity, and uses Gemini AI to suggest and generate tests — each analysis job runs in an isolated Docker container.</p>
       <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · PostgreSQL · Docker · Babel Parser</sub></p>
-      <a href="[https://cov-ai.vercel.app](https://covai.tech/)"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://covai.tech/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/CovAI-"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
