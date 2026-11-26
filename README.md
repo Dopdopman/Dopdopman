@@ -1,6 +1,6 @@
 <!-- Header (Capsule Render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRAN%20HUU%20PHUC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20%26%20Backend%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRAN%20HUU%20PHUC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20%2F%20Backend%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <!-- Typing Effect -->
@@ -33,7 +33,7 @@
         <li>🎨 <b>Frontend:</b> Next.js, React, Tailwind CSS</li>
         <li>🗄️ <b>Data & Storage:</b> PostgreSQL, Prisma, Redis, MySQL, SQL Server, Cloudflare R2</li>
         <li>🔐 <b>Security & QA:</b> OAuth 2.0 (PKCE), JWT, RBAC, Vitest, Jest, Playwright E2E</li>
-        <li>☁️ <b>DevOps & Applied AI:</b> Docker, GitHub Actions CI/CD, Gemini AI / Grounded RAG</li>
+        <li>☁️ <b>DevOps & Applied AI:</b> Docker, CI/CD, Gemini AI / Grounded RAG</li>
         <li>📫 <b>Contact:</b> phuctranhuu.dev@gmail.com</li>
       </ul>
     </td>
@@ -54,21 +54,21 @@
       <h3>🧪 CovAI</h3>
       <p>AI-powered test coverage analysis & Jest test generation platform. Builds Control Flow Graphs, computes Cyclomatic Complexity, and uses Gemini AI to suggest and generate tests — each analysis job runs in an isolated Docker container.</p>
       <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · PostgreSQL · Docker · Babel Parser</sub></p>
-      <a href="https://covai.tech/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://covai.tech/"><img src="https://img.shields.io/badge/Live-E84C1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/CovAI-"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🏍️ DirtFit Commerce</h3>
       <p>Off-road motorcycle e-commerce monorepo featuring a 2D physics-based Rider Fit Simulator, grounded Gemini AI chatbot, VietQR checkout, Cloudflare R2 media pipeline, and 3-tier Vitest/Playwright CI/CD.</p>
       <p><sub><b>Stack:</b> Next.js 15 · Fastify 5 · PostgreSQL/Prisma · Redis · Docker · Gemini AI</sub></p>
-      <a href="https://dirtfit-commerce.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://dirtfit-commerce.vercel.app"><img src="https://img.shields.io/badge/Live-E84C1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/dirtfit-commerce"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>📈 VXG Tracker</h3>
       <p>Automated price tracking, auditing, and quantitative forecasting platform for Vietnam's Gold, Fuel, and Gas markets—combining 11 official sources, macro/RSS signals, and zero look-ahead walk-forward models.</p>
       <p><sub><b>Stack:</b> Next.js · FastAPI · PostgreSQL · scikit-learn · Docker · GitHub Actions</sub></p>
-      <a href="https://vxg-tracker.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://vxg-tracker.vercel.app"><img src="https://img.shields.io/badge/Live-E84C1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/vxg-tracker"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
