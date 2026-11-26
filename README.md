@@ -1,23 +1,22 @@
 <!-- Header (Capsule Render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRAN%20HUU%20PHUC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=TRAN%20HUU%20PHUC&fontSize=60&animation=fadeIn&fontAlignY=35&desc=aka%20Dopdopman%20%E2%80%A2%20Fullstack%20%26%20Backend%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <!-- Typing Effect -->
 <div align="center">
   <a href="https://github.com/Dopdopman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A7BD5&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Specialized+in+Backend+Architecture;Building+Scalable+Systems;Always+Learning+%26+Coding" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A7BD5&center=true&vCenter=true&width=580&lines=Fullstack+%26+Backend+Developer;Building+Production+APIs+%26+Data+Systems;Automated+CI%2FCD+%26+3-Tier+Testing;Applied+AI+%26+Scalable+Architecture" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social Links (Modern Style) -->
+<!-- Social Links -->
 <div align="center">
   <br>
-  <a href="https://github.com/Dopdopman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/phuc-tran-4b14802a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:phuctranhuu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.facebook.com/tran.phuc.504864"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/tran_qhuc10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:phuctranhuu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br>
@@ -26,19 +25,19 @@
 <!-- About Me & GIF Layout -->
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
       <h2>🚀 About Me</h2>
-      <p>Hello! I'm a Software Engineering Student and a passionate developer with a strong focus on <b>Backend Development</b>. I love building APIs, diving deep into databases, and crafting scalable architecture.</p>
+      <p>Hello! I'm a Software Engineering student focused on <b>Backend Architecture & Fullstack Systems</b>. I enjoy designing reliable APIs, data-heavy workflows, automated testing pipelines, and shipping end-to-end production apps.</p>
       <ul>
-        <li>🛠️ <b>Core:</b> Node.js, Express, JavaScript/TypeScript</li>
-        <li>🗄️ <b>Databases:</b> SQL Server, MySQL, PostgreSQL</li>
-        <li>🔐 <b>Security:</b> JWT, OAuth, Role-Based Access</li>
-        <li>☁️ <b>Learning:</b> Distributed Systems & Cloud Services</li>
+        <li>🛠️ <b>Backend & APIs:</b> Node.js (Fastify, Express), Python (FastAPI), JavaScript/TypeScript</li>
+        <li>🎨 <b>Frontend:</b> Next.js, React, Tailwind CSS</li>
+        <li>🗄️ <b>Data & Storage:</b> PostgreSQL, Prisma, Redis, MySQL, SQL Server, Cloudflare R2</li>
+        <li>🔐 <b>Security & QA:</b> OAuth 2.0 (PKCE), JWT, RBAC, Vitest, Jest, Playwright E2E</li>
+        <li>☁️ <b>DevOps & Applied AI:</b> Docker, GitHub Actions CI/CD, Gemini AI / Grounded RAG</li>
         <li>📫 <b>Contact:</b> phuctranhuu.dev@gmail.com</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <!-- Cool Coding GIF -->
+    <td width="38%" align="center">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF" />
     </td>
   </tr>
@@ -60,10 +59,10 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🏍️ DirtFit Commerce</h3>
-      <p>Off-road & dual-sport motorcycle e-commerce platform featuring a 2D physics-based Rider Fit Simulator, grounded Gemini AI chatbot, VietQR checkout, and Cloudflare R2 media pipeline.</p>
-      <p><sub><b>Stack:</b> Next.js 15 · Fastify 5 · PostgreSQL/Prisma · Redis · Gemini AI</sub></p>
+      <p>Off-road motorcycle e-commerce monorepo featuring a 2D physics-based Rider Fit Simulator, grounded Gemini AI chatbot, VietQR checkout, Cloudflare R2 media pipeline, and 3-tier Vitest/Playwright CI/CD.</p>
+      <p><sub><b>Stack:</b> Next.js 15 · Fastify 5 · PostgreSQL/Prisma · Redis · Docker · Gemini AI</sub></p>
+      <a href="https://dirtfit-commerce.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/dirtfit-commerce"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-      <a href="https://dirtfit-commerce.vercel.app"><img src="https://img.shields.io/badge/Live-E84C1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>📈 VXG Tracker</h3>
@@ -77,17 +76,17 @@
 
 <br><br>
 
-<!-- Tech Stack with Folders (Details tag) for cleaner look -->
+<!-- Tech Stack -->
 <h2 align="center">⚡ Technologies & Tools</h2>
 <div align="center">
-  <p>Languages & Frameworks</p>
+  <p><b>Languages & Frameworks</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,fastapi,react,nextjs,tailwind,html,css" alt="Languages and Frameworks" />
   </a>
   <br><br>
-  <p>Databases, DevOps & Tools</p>
+  <p><b>Databases, Cloud, Testing & DevOps</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,githubactions,vscode,docker,postman,vercel" alt="Tools and DBs" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,prisma,docker,githubactions,cloudflare,gcp,vercel,vitest,jest,git,postman" alt="Databases, Cloud, Testing and DevOps" />
   </a>
 </div>
 
