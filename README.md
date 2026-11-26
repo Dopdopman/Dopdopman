@@ -59,17 +59,18 @@
       <a href="https://github.com/Dopdopman/CovAI-"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
     <td width="33%" valign="top" align="center">
+      <h3>🏍️ DirtFit Commerce</h3>
+      <p>Off-road & dual-sport motorcycle e-commerce platform featuring a 2D physics-based Rider Fit Simulator, grounded Gemini AI chatbot, VietQR checkout, and Cloudflare R2 media pipeline.</p>
+      <p><sub><b>Stack:</b> Next.js 15 · Fastify 5 · PostgreSQL/Prisma · Redis · Gemini AI</sub></p>
+      <a href="https://github.com/Dopdopman/dirtfit-commerce"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+      <a href="https://dirtfit-commerce.vercel.app"><img src="https://img.shields.io/badge/Live-E84C1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <h3>📈 VXG Tracker</h3>
       <p>Automated price tracking, auditing, and quantitative forecasting platform for Vietnam's Gold, Fuel, and Gas markets—combining 11 official sources, macro/RSS signals, and zero look-ahead walk-forward models.</p>
       <p><sub><b>Stack:</b> Next.js · FastAPI · PostgreSQL · scikit-learn · Docker · GitHub Actions</sub></p>
       <a href="https://vxg-tracker.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/Dopdopman/vxg-tracker"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🍱 F-Bites</h3>
-      <p>Food rescue marketplace connecting sellers with surplus stock to buyers. Built the Seller Dashboard, Wishlist, and QR-code pickup flow, backed by JWT-authenticated REST APIs.</p>
-      <p><sub><b>Stack:</b> React · Node.js/Express · Prisma · JWT</sub></p>
-      <a href="https://github.com/Dopdopman/F-Bites"><img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
     </td>
   </tr>
 </table>
